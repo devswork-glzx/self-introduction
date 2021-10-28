@@ -1,39 +1,35 @@
-# 团队介绍
+# 开发者工坊 桂林中学分部
 
-#### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+> Hello, Programming! / 为中国青少年编程出力
 
-#### 软件架构
-软件架构说明
+这里是 **开发者工坊 桂林中学分部** 的社团协作组织账号。本账号用于托管社团相关开源及私有项目（私有项目主要在 GitHub 进行协作）。
 
+## 我们是谁？
 
-#### 安装教程
+我们是由一群热爱编程的桂中学子（还有学长）组成的社团分部，建立此账号旨在让社团成员协作开发项目并学习 Git 相关知识。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 我们做什么？
 
-#### 使用说明
+- Python 开发
+- DDLC Mod 操作（TBD）
+- VuePress / MkDocs 等技术栈的网站建设（TBD）
+- C++ 开发（TBD）
+- ...
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 加入我们？
 
-#### 参与贡献
+由于社团性质，本团队 **仅限开发者工坊 桂林中学分部成员加入**。
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+如果你是桂林中学的学生，并希望加入我们，请 [通过邮箱联系 imgradeone](mailto:imgradeone@outlook.com)（邮件地址为 imgradeone(at)outlook.com）。  
+如果你是其他学校的学生 / 其他人员，抱歉，您将无法加入本团队，但您仍然可以查看并 Fork 我们的开源项目代码。协作开发可能会受到限制。
 
+## 人员
 
-#### 特技
+- imgradeone（2021 届社长 二代目） - [GitHub](https://github.com/imgradeone) / [Gitee](https://gitee.com/imgradeone)
+- *等待其他成员注册 GitHub / Gitee 账号并加入团队中*
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 官方社群
+
+[开发者工坊 官方网站](https://devs.lfdevs.com)  
+[桂中分部团队官方 GitHub 账号](https://github.com/devswork-glzx)  
+[桂中分部团队官方 Gitee 账号](https://gitee.com/devswork-glzx)  
